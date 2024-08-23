@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoesantos)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8-g9xL1oFx1Z_-AqiZmyHA)
 
- - 📚 Granduando em Engenharia de Software no Centro Universitário Internacional e Análise e Desenvolvimento de Sistemas no Instituto Federal do Sudeste de MG
+ - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Sudeste de MG
  - 💭 Sempre buscando aprender mais sobre tecnologia e aprimorar minhas habilidades.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoedus&layout=compact&theme=dracula)
